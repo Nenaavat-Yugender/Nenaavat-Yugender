@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on [Vmock](https://vmock.com/)
 
-- 🌱 I’m currently learning **Advanced DSA**
+- 🌱 *"I am mastering advanced algorithmic problem-solving while actively exploring new AI technologies to architect highly efficient, future-ready solutions."*
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nenaavat-Yugender?tab=repositories](https://github.com/Nenaavat-Yugender?tab=repositories)
 
