@@ -1,14 +1,14 @@
 
 [![MasterHead](https://camo.githubusercontent.com/8276d40a11c4fca0f195d4dbf0f6b3bb64b1383f01ca99be5231a225de8e8ba5/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yugandar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nenaavat-yugender&label=Profile%20views&color=0e75b6&style=flat" alt="nenaavat-yugender" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Celebal Technologies](https://celebaltech.com/)
+- 🔭 I’m currently working on [Vmock](https://vmock.com/)
 
 - 🌱 I’m currently learning **Advanced DSA**
 
