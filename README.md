@@ -36,8 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nenaavat-yugender&show_icons=true&locale=en" alt="nenaavat-yugender" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nenaavat-yugender&" alt="nenaavat-yugender" /></p>
-this is my current github home page, update it to nice soething intreting,
-
-my current company Vmock india pvt ltd,
-
-keep my emailand repo link same
